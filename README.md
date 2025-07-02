@@ -6,6 +6,8 @@
 
 This project is a simple event management backend built with FastAPI, SQLAlchemy, and Pydantic. It allows users to create events, register for events, and retrieve event and registration information. The application uses SQLite as the database.
 
+We have user registration and events table. This is a basic event management wewbsite.
+
 ## Project Structure
 
 ```
