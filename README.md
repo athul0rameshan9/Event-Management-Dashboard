@@ -1,8 +1,8 @@
 # Event-Management-Dashboard
 
 
-
-# Event Management Backend
+###########################################################
+# Event Management Backend fast api (python)
 
 This project is a simple event management backend built with FastAPI, SQLAlchemy, and Pydantic. It allows users to create events, register for events, and retrieve event and registration information. The application uses SQLite as the database.
 
@@ -48,3 +48,4 @@ This will start the server at `http://127.0.0.1:8000`. You can access the intera
 ## License
 
 This project is open-source and available under the MIT License.
+##########################################################################
